@@ -1,3 +1,9 @@
+#sumedh shingade
+#54
+#M
+
+
+
 from random import randint as rt
 def game(dice,faces):
     result=0
