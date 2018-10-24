@@ -1,3 +1,8 @@
+#sumedh shingade
+#54
+#M
+
+
 num=int(input("enter a number:"))
 sum=0
 temp=num
